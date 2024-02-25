@@ -2,7 +2,7 @@
 $vps = "77.105.146.184"
 
 # attacker's listening port
-$listenPort = 4478
+$listenPort = 4477
 
 # optional argument for validating the attacker's sha1 fingerprint
 # $certFingerprint = ""
